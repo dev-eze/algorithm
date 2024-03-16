@@ -3,7 +3,7 @@ package java_array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class P_1546 {
+public class Problem_1546 {
     /**
      * 문제 : https://www.acmicpc.net/problem/1546 평균구하기
      *
