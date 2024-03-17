@@ -1,4 +1,4 @@
-package java_array;
+package java_problem;
 
 import java.util.Arrays;
 import java.util.Scanner;

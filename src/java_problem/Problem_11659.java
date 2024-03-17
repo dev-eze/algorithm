@@ -1,4 +1,4 @@
-package java_array;
+package java_problem;
 
 import java.io.BufferedReader;
 import java.io.IOException;
